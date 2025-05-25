@@ -1,29 +1,29 @@
-# Interactive-Kids-Universe-
-An interactive website designed to help kids explore letters, numbers, animals, and music in a fun and engaging way.
-## Features
+# interactive-kids-site1
 
-- **Home Page**: Welcoming introduction with a button to begin the interactive journey.
-- **Learn Page**: Displays alphabet letters and numbers 0–10 as buttons. Each button plays an audio clip when clicked to help children learn pronunciation.
-- **Animals Page**: Image gallery with clickable animal names (pronunciation audio) and images (animal sounds).
-- **Music & Dance Page**: Choose between three songs. Clicking a song starts or stops playback. Switching songs stops the previous one before playing the new one.
-- **Contact Page**: Simple form with inputs for name and message. Upon submission, a confirmation message appears at the top of the page.
+This template should help get you started developing with Vue 3 in Vite.
 
-## Technologies Used
+## Recommended IDE Setup
 
-### Vue.js
-- The project was developed using **Vue.js**
-- Implements routing, `v-for`, `v-on`, and other Vue directives
-- Follows single-file component structure
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-### Animations and Transitions
-- Navbar tabs have hover transitions
-- Animal names and images animate on hover
-- Alphabet and number buttons animate with a playful “bounce” effect
+## Customize configuration
 
-### Additional Functionality
-- Responsive form on the Contact page using standard HTML inputs and form tags
-- Loop rendering for alphabet, numbers, and animals using `v-for`
-- Modular architecture using Vue single-file components
+See [Vite Configuration Reference](https://vite.dev/config/).
 
+## Project Setup
 
+```sh
+npm install
+```
 
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```

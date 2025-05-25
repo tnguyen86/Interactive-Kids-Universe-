@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "interactive-kids-site1", ".", "{CB362EF2-39AB-4A26-91BF-6204A6AB0650}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52687"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\interactive-kids-site1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52687\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52687"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\interactive-kids-site1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52687\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52687"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB362EF2-39AB-4A26-91BF-6204A6AB0650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB362EF2-39AB-4A26-91BF-6204A6AB0650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C289D94F-EE78-4EF5-A4E1-CFF2D8CB10A2}
+	EndGlobalSection
+EndGlobal
